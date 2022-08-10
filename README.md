@@ -30,4 +30,8 @@
 
 ![训练效果对比](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE/%E8%AE%AD%E7%BB%83%E6%95%88%E6%9E%9C%E5%AF%B9%E6%AF%94.png)<br>
 
-可以明显看出，我们的拟合情况相较于原有的算法与训练场景具有更好的训练成果。
+可以明显看出，我们的拟合情况相较于原有的算法与训练场景具有更好的训练成果。每个 step的项目实现与项目展示请*click*各个step的说明文档：
+[step 1](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step1%E5%80%92%E8%BD%A6%E8%BD%A8%E8%BF%B9%E4%BB%A3%E7%A0%81/Vertical%20%20trajectory.pdf)|
+[step 2](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step2%E5%9E%82%E7%9B%B4%E5%80%92%E8%BD%A6%E8%BF%87%E7%A8%8B%E4%BB%A3%E7%A0%81/The%20Parking%20Process%20of%20Ackerman's%20Vehicle.pdf)|
+[step 3](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE/Automatic%20Parking%20by%20Reinforcement%20Learning.pdf) 
+
