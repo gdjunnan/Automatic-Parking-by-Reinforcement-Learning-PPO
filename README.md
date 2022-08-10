@@ -21,5 +21,9 @@
 
 ## 强化学习下阿克曼小车自动泊车的MATLAB仿真
 本部分是**暑期项目中的最重要部分**,旨在通过前面的steps深入学习垂直泊车后，以MATLAB软件模拟一辆阿克曼结构的小车运动学参数，实现强化学习下的垂直倒车入库。我们基于前两个项目倒车入库的轨迹和流程，分步实现了PPO算法下的MATLAB仿真。并对强化学习的训练及测试情况进行展示。<br>
-具体强化学习下阿克曼小车自动泊车的MATLAB仿真的实现过程请看[step3说明文档](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE/Automatic%20Parking%20by%20Reinforcement%20Learning.pdf) 。以下我们对项目过程略作展示，其中运行结果切片如下所示：<br>
+具体[step3 强化学习下阿克曼小车自动泊车的MATLAB仿真](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/tree/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE)的实现过程请看[step3说明文档](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE/Automatic%20Parking%20by%20Reinforcement%20Learning.pdf) 。以下我们对项目过程略作展示，其中运行结果切片如下所示：<br>
 ![倒车动画切片](https://github.com/supersteve2001/Automatic-Parking-by-Reinforcement-Learning-PPO/blob/main/step3%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8B%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A1%B9%E7%9B%AE/%E5%80%92%E8%BD%A6%E5%8A%A8%E7%94%BB%E5%88%87%E7%89%87.png) <br>
+
+
+
+
